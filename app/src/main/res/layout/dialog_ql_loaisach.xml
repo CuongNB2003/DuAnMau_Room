@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="400dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:text="Chi Tiết Loại Sách"
+        android:background="#FFC107"/>
+    <TextView
+        android:id="@+id/tv_MaLoaiLS"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mã loại 1"/>
+
+    <LinearLayout
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:weightSum="5"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên Loại: "/>
+        <EditText
+            android:layout_marginRight="40dp"
+            android:textColor="@color/black"
+            android:id="@+id/ed_TLoai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nhập tên loại"
+            android:textSize="20dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:textColor="@color/white"
+            android:backgroundTint="#FFC107"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:id="@+id/btn_XoaLS"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Xóa"/>
+        <Button
+            android:textColor="@color/white"
+            android:backgroundTint="#FFC107"
+            android:layout_marginRight="20dp"
+            android:id="@+id/btn_SuaLS"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Cập Nhật"/>
+    </LinearLayout>
+</LinearLayout>

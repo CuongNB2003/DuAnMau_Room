@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#49BA8D"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="70dp"
+                android:background="@drawable/ic_phieumuon"/>
+            <Button
+                android:id="@+id/btn_TraSach"
+                android:backgroundTint="#FF9800"
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:text="Trả Sách"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mã Phiếu Mượn: "
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_weight="20"
+                    android:id="@+id/tv_MaPhieuMuon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="tên thu thư"
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Thủ Thư: "
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_weight="20"
+                    android:id="@+id/tv_ThuThuPM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="tên thu thư"
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Thành viên: "
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_weight="20"
+                    android:id="@+id/tv_ThanhVienPM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="thành viên"
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tên Sách: "
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_weight="20"
+                    android:id="@+id/tv_TenSachPM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="tên sách"
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tiền thuê: "
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:id="@+id/tv_TienThuePM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="giá thuê"
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" VNĐ"
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ngày mượn: "
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_weight="20"
+                    android:id="@+id/tv_NgayMuon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ngày mượn"
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textColor="@color/black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trạng thái: "
+                    android:textStyle="bold"
+                    android:textSize="15dp"/>
+                <TextView
+                    android:textColor="@color/white"
+                    android:layout_weight="20"
+
+                    android:id="@+id/tv_TrangThaiPM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="đã trả sách"
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

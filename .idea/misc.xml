@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/activity_login.xml" value="0.18931159420289856" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/activity_main.xml" value="0.2428174235403151" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/activity_man_chao.xml" value="0.2" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_loaisach.xml" value="0.234375" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_nguoidung.xml" value="0.22395833333333334" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_phieumuon.xml" value="0.234375" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_sach.xml" value="0.23333333333333334" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_thanhvien.xml" value="0.23333333333333334" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_ql_loaisach.xml" value="0.23333333333333334" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_ql_nguoidung.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_ql_phieumuon.xml" value="0.234375" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_ql_sach.xml" value="0.234375" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/dialog_ql_thanhvien.xml" value="0.23333333333333334" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_add_nguoi_dung.xml" value="0.18931159420289856" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.18931159420289856" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_loai_sach.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_sach.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_thanh_vien.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_top10_sach.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_loaisach.xml" value="0.19746376811594202" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_nguoidung.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_phieumuon.xml" value="0.19746376811594202" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_sach.xml" value="0.19746376811594202" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_spinner.xml" value="0.20833333333333334" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_thanhvien.xml" value="0.19746376811594202" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/item_top.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/layout_add_nguoidung.xml" value="0.17753623188405798" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/layout_nav.xml" value="0.18671875" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/layout_spinner.xml" value="0.24583333333333332" />
+        <entry key="..\:/FPT Polytechnic/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+        <entry key="..\:/FPT Polytechnic/NhungMonDaHoc/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.11955420466058764" />
+        <entry key="..\:/FPT Polytechnic/NhungMonDaHoc/DuAnMau/CuongNBPH22662_MOB2041_DuAnMau/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
